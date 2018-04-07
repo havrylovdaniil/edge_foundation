@@ -1,0 +1,9 @@
+.header {
+  background:rgba($dark,.8);
+  @extend .ptsans;
+  &_navigation {
+    &_item {
+      color: $white;
+    }
+  }
+}

@@ -1,0 +1,9 @@
+/* Include Foundation framework */
+@import  '../../bower_components/foundation-sites/scss/foundation';
+
+/* include XY-Grid*/
+@include foundation-xy-grid-classes();
+/* Include */
+@include foundation-menu;
+@include foundation-top-bar;
+@include foundation-title-bar;

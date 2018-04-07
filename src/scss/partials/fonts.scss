@@ -1,0 +1,48 @@
+@font-face {
+  font-family: 'acrom300';
+  src: url('../../fonts/acrom/acrom300.eot');
+  src: url('../../fonts/acrom/acrom300.eot') format('embedded-opentype'),
+  url('../../fonts/acrom/acrom300.woff2') format('woff2'),
+  url('../../fonts/acrom/acrom300.woff') format('woff'),
+  url('../../fonts/acrom/acrom300.ttf') format('truetype'),
+  url('../../fonts/acrom/acrom300.svg#acrom300') format('svg');
+}
+@font-face {
+  font-family: 'MinionProRegular';
+  src: url('../../fonts/minionpro/MinionProRegular.eot');
+  src: url('../../fonts/minionpro/MinionProRegular.eot') format('embedded-opentype'),
+url('../../fonts/minionpro/MinionProRegular.woff2') format('woff2'),
+url('../../fonts/minionpro/MinionProRegular.woff') format('woff'),
+url('../../fonts/minionpro/MinionProRegular.ttf') format('truetype'),
+url('../../fonts/minionpro/MinionProRegular.svg#MinionProRegular') format('svg');
+}
+@font-face {
+  font-family: 'PTS55F';
+  src: url('../../fonts/ptsans/PTS55F.eot');
+  src: url('../../fonts/ptsans/PTS55F.eot') format('embedded-opentype'),
+  url('../../fonts/ptsans/PTS55F.woff2') format('woff2'),
+  url('../../fonts/ptsans/PTS55F.woff') format('woff'),
+  url('../../fonts/ptsans/PTS55F.ttf') format('truetype'),
+  url('../../fonts/ptsans/PTS55F.svg#PTS55F') format('svg');
+}
+@font-face {
+  font-family: 'Quadrilateral';
+  src: url('../../fonts/quadrilaterial/Quadrilateral.eot');
+  src: url('../../fonts/quadrilaterial/Quadrilateral.eot') format('embedded-opentype'),
+  url('../../fonts/quadrilaterial/Quadrilateral.woff2') format('woff2'),
+  url('../../fonts/quadrilaterial/Quadrilateral.woff') format('woff'),
+  url('../../fonts/quadrilaterial/Quadrilateral.ttf') format('truetype'),
+  url('../../fonts/quadrilaterial/Quadrilateral.svg#Quadrilateral') format('svg');
+}
+.acrom {
+  font-family:'acrom300';
+}
+.minion {
+  font-family:'MinionProRegular';
+}
+.ptsans {
+  font-family:'PTS55F';
+}
+.quadrilat {
+  font-family:'Quadrilateral';
+}
